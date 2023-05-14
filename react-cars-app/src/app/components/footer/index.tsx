@@ -209,7 +209,7 @@ export function Footer() {
             <RedIcon>
               <FontAwesomeIcon icon={faPhoneAlt} />
             </RedIcon>
-            <SmallText>+91 555-234-8469</SmallText>
+            <SmallText>+2547xxxxxxxxx</SmallText>
           </HorizontalContainer>
         </SectionContainer>
         <SectionContainer>
